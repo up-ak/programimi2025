@@ -384,7 +384,7 @@ Statusi: ✓ KALUAR
 
 ---
 
-### Detyre Shtepie: Bileta Kinema (me if-else dhe operatorë ternarë)
+### Detyre Shtepie: Bileta Kinema
 
 **Përshkrim**: Llogaritni çmimin e biletës së kinemas bazuar në moshë dhe ditë.
 
@@ -398,7 +398,7 @@ Statusi: ✓ KALUAR
   - 12-18 vjeç: 30% zbritje
   - Mbi 65 vjeç: 40% zbritje
   - Të tjerët: Asnjë zbritje
-- Zbritje shtesë për ditët 1-5 (E Hënë - E Premte): 20% zbritje ekstra
+- Zbritje shtesë për ditët 1-5 (E Hënë - E Premte): 20% zbritje ekstra (Perdorni switch - opsionale)
 - Shfaqni çmimin final dhe detajet
 
 **Input shembull**: Mosha 15, Dita 3  
